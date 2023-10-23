@@ -1,8 +1,14 @@
 {
   "expo": {
     "scheme": "acme",
+    "icon": "./assets/icon.png",
     "web": {
       "bundler": "metro"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
     },
     "plugins": [
       "expo-router"
@@ -16,7 +22,11 @@
       }
     },
     "android": {
-      "package": "com.zayyid123.clonewhatsapp"
+      "package": "com.zayyid123.clonewhatsapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#fff"
+      }
     }
   }
 }
