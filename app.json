@@ -6,6 +6,17 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "924a23c1-9805-41c3-8f5b-26b545efa20f"
+      }
+    },
+    "android": {
+      "package": "com.zayyid123.clonewhatsapp"
+    }
   }
 }
