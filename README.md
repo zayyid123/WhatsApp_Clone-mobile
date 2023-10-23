@@ -1,5 +1,5 @@
 # WhastApp Clone: A Clonning Apps from WhatsApp
-![WHATSAPP CLONE Logo](https://raw.githubusercontent.com/zayyid123/WhatsApp-Clone-mobile/main/whastapp-clone-1x1.png)
+![WHATSAPP CLONE Logo](https://github.com/zayyid123/WhatsApp_Clone-mobile/blob/main/whastapp-clone-1x1.png?raw=true)
 
 **WhatsApp - Clone App** is a mobile application built with React Native, Tailwind CSS, and React Navigation.
 
@@ -19,8 +19,8 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zayyid123/WhatsApp-Clone-mobile.git
-   cd WhatsApp-Clone-mobile
+   git clone https://github.com/zayyid123/WhatsApp_Clone-mobile.git
+   cd WhatsApp_Clone-mobile
    ```
 
 2. Install Dependency:
@@ -41,4 +41,4 @@ Make sure you have the following installed on your machine:
 
 ## 📝 Notes
 
-- Just UI
+- [Apps](https://drive.google.com/drive/folders/1ZkxWWcdVdfocygO4KZRqNMm0ZQfXAcin?usp=sharing)
